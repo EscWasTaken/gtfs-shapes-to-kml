@@ -3,7 +3,7 @@ Convert a GTFS shapes.txt to a KML file for work in Google Earth and GIS softwar
 
 ## Usage
 1. Download and install Python. This program was created specifcally on version 3.14.3 but should work on others. [https://www.python.org/downloads/](https://www.python.org/downloads/).
-2. Download the latest ZIP archive from releases and extract it into a new folder.
+2. Download the latest ZIP archive from [releases](https://github.com/EscWasTaken/gtfs-shapes-to-kml/releases) and extract it into a new folder.
 3. Open a terminal (Bash / Powershell / Command Prompt) in the folder and create a new virtual environment with: `python -m venv`
 4. Activate the virtual environment with one of the following (Windows users try the last two):
 
